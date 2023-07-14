@@ -16,10 +16,12 @@ _This is a crypto test project_
 
 
 ##### Account Dashboard
-![ZminingAccount](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/2fabc732-8eee-4f45-855c-b8f2727db5dd)
+![ZminingAccount](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/bf1e06e1-a21a-4dad-8723-a27840d80024)
+
 
 ##### Withdrawal
-![ZMiningWithdraw](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/d621cf53-2fce-4d1c-80d3-e27c16e89738)
+![ZMiningWithdraw](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/37b639d1-aa49-40ac-9bf3-4570211f6b29)
 
 ##### Home
-![ZminingHome](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/41f5c14c-2cc1-433f-9c65-adce3ef4cb7b)
+![ZminingHome](https://github.com/zyyqaengr/crypto-zmining/assets/139578757/016fa0b7-8b52-4020-807c-43ad3bf2234b)
+
